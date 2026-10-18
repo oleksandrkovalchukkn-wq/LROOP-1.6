@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\Long.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:LR1,6OOP\\Long.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B966C590-4059-4801-859E-6D15456A015A}|LR1,6OOP\\LR1,6OOP.vcxproj|C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\LR1,6OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B966C590-4059-4801-859E-6D15456A015A}|LR1,6OOP\\LR1,6OOP.vcxproj|solutionrelative:LR1,6OOP\\LR1,6OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-18T16:29:54.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LR1,6OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\LR1,6OOP.cpp",
+              "RelativeDocumentMoniker": "LR1,6OOP\\LR1,6OOP.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\LR1,6OOP.cpp",
+              "RelativeToolTip": "LR1,6OOP\\LR1,6OOP.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-18T16:27:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Long.cpp",
+              "DocumentMoniker": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\Long.cpp",
+              "RelativeDocumentMoniker": "LR1,6OOP\\Long.cpp",
+              "ToolTip": "C:\\Users\\pozzi\\source\\repos\\LR1,6OOP\\LR1,6OOP\\Long.cpp",
+              "RelativeToolTip": "LR1,6OOP\\Long.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-18T16:27:42.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
